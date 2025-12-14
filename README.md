@@ -32,7 +32,7 @@ All visuals were built as individual worksheets first, then carefully arranged a
 - Regional Segment Sales Distribution (stacked bar chart by Consumer, Corporate, Home Office)
 - Sub-Categories Sales Distribution (treemap)
 
-![Dashboard_2](Dashboard_1.png)
+![Dashboard_2](Dashboard_2.png)
 
 ---
 
